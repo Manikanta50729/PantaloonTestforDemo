@@ -1,0 +1,605 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="21" passed="21" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Spring Collection banner is visibletrue]]>
+    </line>
+    <line>
+      <![CDATA[KidsBanner is enabled and working fine ]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Proper error message displayed for not slecting size]]>
+    </line>
+    <line>
+      <![CDATA[Total Cart amount is ₹ 3892.00]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Total cart amount is  ₹ 6785.00]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[ios icon is displayed false]]>
+    </line>
+    <line>
+      <![CDATA[Android icon is displayed true]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[ login required to add product to wishlistcom.booking.pagerepository.redirectToLoginPage@53a9fcfd]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[S M L XL 2XL ]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Selected option in dropdown is : Best Selling]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Proper error message is diplayed true]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Product count is null]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Nearest store to your location is No.761 HAL, 2nd Stage, Indiranagar 100 Feet Road, Corporation Ward No.72, Ward Name Domlur, PID No.72-1-76, Bengaluru - 560008]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[majortab Womenis visible]]>
+    </line>
+    <line>
+      <![CDATA[Women major tab options count is  3]]>
+    </line>
+    <line>
+      <![CDATA[Women major tab options count is  3]]>
+    </line>
+    <line>
+      <![CDATA[all options are enabled and count is 3]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Proper error message is diplayed true]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Multicontainer root icons are displayed]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[paynow button is working finetrue]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[first product Name is Casual Slim Fit Rinse Jeans]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[total tabs present in dealPage  6]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[vanhusen logo in women majorTab is displayed: true]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[verify my bag page is displayedtrue]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[login required true]]>
+    </line>
+    <line>
+      <![CDATA[login required true]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[Product page is displayedMens Jeans & Denims]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+    <line>
+      <![CDATA[brand page is displayed  true]]>
+    </line>
+    <line>
+      <![CDATA[Product count displayed in annabelle Brand page are null]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-04-17T13:16:17Z" name="Suite" finished-at="2023-04-17T13:21:37Z" duration-ms="320745">
+    <groups>
+    </groups>
+    <test started-at="2023-04-17T13:16:17Z" name="Test" finished-at="2023-04-17T13:21:37Z" duration-ms="320745">
+      <class name="com.pantaloons.tests.Test021_EndtoEnd">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test021_EndtoEnd@2421cc4]" started-at="2023-04-17T13:17:06Z" name="configBC" finished-at="2023-04-17T13:17:11Z" duration-ms="4799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test21()[pri:0, instance:com.pantaloons.tests.Test021_EndtoEnd@2421cc4]" started-at="2023-04-17T13:17:11Z" name="test21" finished-at="2023-04-17T13:17:38Z" duration-ms="27344" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Total cart amount is  ₹ 6785.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test21 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test021_EndtoEnd@2421cc4]" started-at="2023-04-17T13:17:38Z" name="cnfigAC" finished-at="2023-04-17T13:17:39Z" duration-ms="481" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test021_EndtoEnd -->
+      <class name="com.pantaloons.tests.Test009">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test009@30c93896]" started-at="2023-04-17T13:17:39Z" name="configBC" finished-at="2023-04-17T13:17:43Z" duration-ms="4353" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test9()[pri:0, instance:com.pantaloons.tests.Test009@30c93896]" started-at="2023-04-17T13:17:43Z" name="test9" finished-at="2023-04-17T13:17:49Z" duration-ms="6231" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ios icon is displayed false]]>
+            </line>
+            <line>
+              <![CDATA[Android icon is displayed true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test009@30c93896]" started-at="2023-04-17T13:17:49Z" name="cnfigAC" finished-at="2023-04-17T13:17:50Z" duration-ms="357" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test009 -->
+      <class name="com.pantaloons.tests.Test020_EndtoEnd">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test020_EndtoEnd@7a220c9a]" started-at="2023-04-17T13:16:38Z" name="configBC" finished-at="2023-04-17T13:16:43Z" duration-ms="5020" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test20()[pri:0, instance:com.pantaloons.tests.Test020_EndtoEnd@7a220c9a]" started-at="2023-04-17T13:16:43Z" name="test20" finished-at="2023-04-17T13:17:06Z" duration-ms="22923" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proper error message displayed for not slecting size]]>
+            </line>
+            <line>
+              <![CDATA[Total Cart amount is ₹ 3892.00]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test20 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test020_EndtoEnd@7a220c9a]" started-at="2023-04-17T13:17:06Z" name="cnfigAC" finished-at="2023-04-17T13:17:06Z" duration-ms="355" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test020_EndtoEnd -->
+      <class name="com.pantaloons.tests.Test011">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test011@5c44c582]" started-at="2023-04-17T13:21:07Z" name="configBC" finished-at="2023-04-17T13:21:13Z" duration-ms="5354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test11()[pri:0, instance:com.pantaloons.tests.Test011@5c44c582]" started-at="2023-04-17T13:21:13Z" name="test11" finished-at="2023-04-17T13:21:25Z" duration-ms="12048" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Product page is displayedMens Jeans & Denims]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test11 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test011@5c44c582]" started-at="2023-04-17T13:21:25Z" name="cnfigAC" finished-at="2023-04-17T13:21:25Z" duration-ms="550" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test011 -->
+      <class name="com.pantaloons.tests.Test010">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test010@67d18ed7]" started-at="2023-04-17T13:21:25Z" name="configBC" finished-at="2023-04-17T13:21:31Z" duration-ms="6263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test10()[pri:0, instance:com.pantaloons.tests.Test010@67d18ed7]" started-at="2023-04-17T13:21:31Z" name="test10" finished-at="2023-04-17T13:21:37Z" duration-ms="5323" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[brand page is displayed  true]]>
+            </line>
+            <line>
+              <![CDATA[Product count displayed in annabelle Brand page are null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test10 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test010@67d18ed7]" started-at="2023-04-17T13:21:37Z" name="cnfigAC" finished-at="2023-04-17T13:21:37Z" duration-ms="528" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test010 -->
+      <class name="com.pantaloons.tests.Test013">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test013@401f7633]" started-at="2023-04-17T13:20:36Z" name="configBC" finished-at="2023-04-17T13:20:41Z" duration-ms="5470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test13()[pri:0, instance:com.pantaloons.tests.Test013@401f7633]" started-at="2023-04-17T13:20:41Z" name="test13" finished-at="2023-04-17T13:20:47Z" duration-ms="5290" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[vanhusen logo in women majorTab is displayed: true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test13 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test013@401f7633]" started-at="2023-04-17T13:20:47Z" name="cnfigAC" finished-at="2023-04-17T13:20:47Z" duration-ms="371" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test013 -->
+      <class name="com.pantaloons.tests.Test002">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test002@68702e03]" started-at="2023-04-17T13:16:17Z" name="configBC" finished-at="2023-04-17T13:16:22Z" duration-ms="5170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test2()[pri:0, instance:com.pantaloons.tests.Test002@68702e03]" started-at="2023-04-17T13:16:22Z" name="test2" finished-at="2023-04-17T13:16:37Z" duration-ms="15544" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Spring Collection banner is visibletrue]]>
+            </line>
+            <line>
+              <![CDATA[KidsBanner is enabled and working fine ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test002@68702e03]" started-at="2023-04-17T13:16:37Z" name="cnfigAC" finished-at="2023-04-17T13:16:38Z" duration-ms="374" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test002 -->
+      <class name="com.pantaloons.tests.Test001">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test001@31ff43be]" started-at="2023-04-17T13:20:47Z" name="configBC" finished-at="2023-04-17T13:20:53Z" duration-ms="5813" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test1()[pri:0, instance:com.pantaloons.tests.Test001@31ff43be]" started-at="2023-04-17T13:20:53Z" name="test1" finished-at="2023-04-17T13:20:55Z" duration-ms="1773" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[verify my bag page is displayedtrue]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test001@31ff43be]" started-at="2023-04-17T13:20:55Z" name="cnfigAC" finished-at="2023-04-17T13:20:55Z" duration-ms="450" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test001 -->
+      <class name="com.pantaloons.tests.Test012">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test012@5b6ec132]" started-at="2023-04-17T13:20:55Z" name="configBC" finished-at="2023-04-17T13:21:01Z" duration-ms="5893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test12()[pri:0, instance:com.pantaloons.tests.Test012@5b6ec132]" started-at="2023-04-17T13:21:01Z" name="test12" finished-at="2023-04-17T13:21:07Z" duration-ms="5789" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[login required true]]>
+            </line>
+            <line>
+              <![CDATA[login required true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test12 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test012@5b6ec132]" started-at="2023-04-17T13:21:07Z" name="cnfigAC" finished-at="2023-04-17T13:21:07Z" duration-ms="440" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test012 -->
+      <class name="com.pantaloons.tests.Test004">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test004@1fa1cab1]" started-at="2023-04-17T13:19:32Z" name="configBC" finished-at="2023-04-17T13:19:37Z" duration-ms="5385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test4()[pri:0, instance:com.pantaloons.tests.Test004@1fa1cab1]" started-at="2023-04-17T13:19:37Z" name="test4" finished-at="2023-04-17T13:19:57Z" duration-ms="20053" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Multicontainer root icons are displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test004@1fa1cab1]" started-at="2023-04-17T13:19:57Z" name="cnfigAC" finished-at="2023-04-17T13:19:58Z" duration-ms="494" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test004 -->
+      <class name="com.pantaloons.tests.Test015">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test015@70f02c32]" started-at="2023-04-17T13:19:58Z" name="configBC" finished-at="2023-04-17T13:20:04Z" duration-ms="5699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test15()[pri:0, instance:com.pantaloons.tests.Test015@70f02c32]" started-at="2023-04-17T13:20:04Z" name="test15" finished-at="2023-04-17T13:20:14Z" duration-ms="10087" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[paynow button is working finetrue]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test15 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test015@70f02c32]" started-at="2023-04-17T13:20:14Z" name="cnfigAC" finished-at="2023-04-17T13:20:15Z" duration-ms="826" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test015 -->
+      <class name="com.pantaloons.tests.Test014">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test014@51fadaff]" started-at="2023-04-17T13:20:26Z" name="configBC" finished-at="2023-04-17T13:20:32Z" duration-ms="6491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test14()[pri:0, instance:com.pantaloons.tests.Test014@51fadaff]" started-at="2023-04-17T13:20:32Z" name="test14" finished-at="2023-04-17T13:20:35Z" duration-ms="3274" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[total tabs present in dealPage  6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test14 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test014@51fadaff]" started-at="2023-04-17T13:20:35Z" name="cnfigAC" finished-at="2023-04-17T13:20:36Z" duration-ms="426" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test014 -->
+      <class name="com.pantaloons.tests.Test003">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test003@62010f5c]" started-at="2023-04-17T13:20:15Z" name="configBC" finished-at="2023-04-17T13:20:21Z" duration-ms="6219" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test3()[pri:0, instance:com.pantaloons.tests.Test003@62010f5c]" started-at="2023-04-17T13:20:21Z" name="test3" finished-at="2023-04-17T13:20:25Z" duration-ms="4482" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[first product Name is Casual Slim Fit Rinse Jeans]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test003@62010f5c]" started-at="2023-04-17T13:20:25Z" name="cnfigAC" finished-at="2023-04-17T13:20:26Z" duration-ms="465" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test003 -->
+      <class name="com.pantaloons.tests.Test006">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test006@172b013]" started-at="2023-04-17T13:18:35Z" name="configBC" finished-at="2023-04-17T13:18:46Z" duration-ms="11150" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test6()[pri:0, instance:com.pantaloons.tests.Test006@172b013]" started-at="2023-04-17T13:18:46Z" name="test6" finished-at="2023-04-17T13:18:54Z" duration-ms="7740" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Product count is null]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test006@172b013]" started-at="2023-04-17T13:18:54Z" name="cnfigAC" finished-at="2023-04-17T13:18:55Z" duration-ms="534" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test006 -->
+      <class name="com.pantaloons.tests.Test017">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test017@56673b2c]" started-at="2023-04-17T13:18:55Z" name="configBC" finished-at="2023-04-17T13:19:01Z" duration-ms="5927" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test17()[pri:0, instance:com.pantaloons.tests.Test017@56673b2c]" started-at="2023-04-17T13:19:01Z" name="test17" finished-at="2023-04-17T13:19:11Z" duration-ms="10356" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Nearest store to your location is No.761 HAL, 2nd Stage, Indiranagar 100 Feet Road, Corporation Ward No.72, Ward Name Domlur, PID No.72-1-76, Bengaluru - 560008]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test17 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test017@56673b2c]" started-at="2023-04-17T13:19:11Z" name="cnfigAC" finished-at="2023-04-17T13:19:11Z" duration-ms="489" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test017 -->
+      <class name="com.pantaloons.tests.Test005">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test005@2796aeae]" started-at="2023-04-17T13:19:11Z" name="configBC" finished-at="2023-04-17T13:19:17Z" duration-ms="5752" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test5()[pri:0, instance:com.pantaloons.tests.Test005@2796aeae]" started-at="2023-04-17T13:19:17Z" name="test5" finished-at="2023-04-17T13:19:18Z" duration-ms="1204" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[majortab Womenis visible]]>
+            </line>
+            <line>
+              <![CDATA[Women major tab options count is  3]]>
+            </line>
+            <line>
+              <![CDATA[Women major tab options count is  3]]>
+            </line>
+            <line>
+              <![CDATA[all options are enabled and count is 3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test005@2796aeae]" started-at="2023-04-17T13:19:18Z" name="cnfigAC" finished-at="2023-04-17T13:19:19Z" duration-ms="374" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test005 -->
+      <class name="com.pantaloons.tests.Test016">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test016@b4711e2]" started-at="2023-04-17T13:19:19Z" name="configBC" finished-at="2023-04-17T13:19:24Z" duration-ms="5404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test16()[pri:0, instance:com.pantaloons.tests.Test016@b4711e2]" started-at="2023-04-17T13:19:24Z" name="test16" finished-at="2023-04-17T13:19:32Z" duration-ms="7416" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proper error message is diplayed true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test16 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test016@b4711e2]" started-at="2023-04-17T13:19:32Z" name="cnfigAC" finished-at="2023-04-17T13:19:32Z" duration-ms="361" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test016 -->
+      <class name="com.pantaloons.tests.Test008">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test008@59a008ba]" started-at="2023-04-17T13:17:50Z" name="configBC" finished-at="2023-04-17T13:17:54Z" duration-ms="4444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test8()[pri:0, instance:com.pantaloons.tests.Test008@59a008ba]" started-at="2023-04-17T13:17:54Z" name="test8" finished-at="2023-04-17T13:18:04Z" duration-ms="10332" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[ login required to add product to wishlistcom.booking.pagerepository.redirectToLoginPage@53a9fcfd]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test008@59a008ba]" started-at="2023-04-17T13:18:04Z" name="cnfigAC" finished-at="2023-04-17T13:18:05Z" duration-ms="433" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test008 -->
+      <class name="com.pantaloons.tests.Test019">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test019@338c99c8]" started-at="2023-04-17T13:18:05Z" name="configBC" finished-at="2023-04-17T13:18:09Z" duration-ms="4549" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test19()[pri:0, instance:com.pantaloons.tests.Test019@338c99c8]" started-at="2023-04-17T13:18:09Z" name="test19" finished-at="2023-04-17T13:18:14Z" duration-ms="4925" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[S M L XL 2XL ]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test19 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test019@338c99c8]" started-at="2023-04-17T13:18:14Z" name="cnfigAC" finished-at="2023-04-17T13:18:14Z" duration-ms="254" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test019 -->
+      <class name="com.pantaloons.tests.Test018">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test018@58ce9668]" started-at="2023-04-17T13:18:21Z" name="configBC" finished-at="2023-04-17T13:18:26Z" duration-ms="4757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test18()[pri:0, instance:com.pantaloons.tests.Test018@58ce9668]" started-at="2023-04-17T13:18:26Z" name="test18" finished-at="2023-04-17T13:18:35Z" duration-ms="9227" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Proper error message is diplayed true]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test18 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test018@58ce9668]" started-at="2023-04-17T13:18:35Z" name="cnfigAC" finished-at="2023-04-17T13:18:35Z" duration-ms="302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test018 -->
+      <class name="com.pantaloons.tests.Test007">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.pantaloons.tests.Test007@21ba0741]" started-at="2023-04-17T13:18:14Z" name="configBC" finished-at="2023-04-17T13:18:19Z" duration-ms="4218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method signature="test7()[pri:0, instance:com.pantaloons.tests.Test007@21ba0741]" started-at="2023-04-17T13:18:19Z" name="test7" finished-at="2023-04-17T13:18:21Z" duration-ms="2083" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Selected option in dropdown is : Best Selling]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="cnfigAC()[pri:0, instance:com.pantaloons.tests.Test007@21ba0741]" started-at="2023-04-17T13:18:21Z" name="cnfigAC" finished-at="2023-04-17T13:18:21Z" duration-ms="237" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cnfigAC -->
+      </class> <!-- com.pantaloons.tests.Test007 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

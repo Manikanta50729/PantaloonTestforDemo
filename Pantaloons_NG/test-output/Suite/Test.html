@@ -1,0 +1,339 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>21/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Apr 17 18:46:17 IST 2023</td>
+</tr>
+<tr><td>Total time:</td><td>320 seconds (320745 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.pantaloons.tests.Test001.test1()'><b>test1</b><br>Test class: com.pantaloons.tests.Test001<br/>
+<a href="#Output-1889106580" onClick='toggleBox("Output-1889106580", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1889106580" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1889106580">
+verify my bag page is displayedtrue<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.pantaloons.tests.Test001@31ff43be</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test010.test10()'><b>test10</b><br>Test class: com.pantaloons.tests.Test010<br/>
+<a href="#Output-1538844412" onClick='toggleBox("Output-1538844412", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1538844412" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1538844412">
+brand page is displayed  true<br/>
+Product count displayed in annabelle Brand page are null<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.pantaloons.tests.Test010@67d18ed7</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test011.test11()'><b>test11</b><br>Test class: com.pantaloons.tests.Test011<br/>
+<a href="#Output-1446825265" onClick='toggleBox("Output-1446825265", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1446825265" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1446825265">
+Product page is displayedMens Jeans & Denims<br/>
+</div>
+</td>
+<td></td>
+<td>12</td>
+<td>com.pantaloons.tests.Test011@5c44c582</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test012.test12()'><b>test12</b><br>Test class: com.pantaloons.tests.Test012<br/>
+<a href="#Output-1539718688" onClick='toggleBox("Output-1539718688", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1539718688" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1539718688">
+login required true<br/>
+login required true<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.pantaloons.tests.Test012@5b6ec132</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test013.test13()'><b>test13</b><br>Test class: com.pantaloons.tests.Test013<br/>
+<a href="#Output-1324676647" onClick='toggleBox("Output-1324676647", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1324676647" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1324676647">
+vanhusen logo in women majorTab is displayed: true<br/>
+</div>
+</td>
+<td></td>
+<td>5</td>
+<td>com.pantaloons.tests.Test013@401f7633</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test014.test14()'><b>test14</b><br>Test class: com.pantaloons.tests.Test014<br/>
+<a href="#Output-1040477753" onClick='toggleBox("Output-1040477753", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1040477753" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1040477753">
+total tabs present in dealPage  6<br/>
+</div>
+</td>
+<td></td>
+<td>3</td>
+<td>com.pantaloons.tests.Test014@51fadaff</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test015.test15()'><b>test15</b><br>Test class: com.pantaloons.tests.Test015<br/>
+<a href="#Output-1192529727" onClick='toggleBox("Output-1192529727", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1192529727" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1192529727">
+paynow button is working finetrue<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.pantaloons.tests.Test015@70f02c32</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test016.test16()'><b>test16</b><br>Test class: com.pantaloons.tests.Test016<br/>
+<a href="#Output-1940844413" onClick='toggleBox("Output-1940844413", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1940844413" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1940844413">
+Proper error message is diplayed true<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.pantaloons.tests.Test016@b4711e2</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test017.test17()'><b>test17</b><br>Test class: com.pantaloons.tests.Test017<br/>
+<a href="#Output-1529305105" onClick='toggleBox("Output-1529305105", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1529305105" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1529305105">
+Nearest store to your location is No.761 HAL, 2nd Stage, Indiranagar 100 Feet Road, Corporation Ward No.72, Ward Name Domlur, PID No.72-1-76, Bengaluru - 560008<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.pantaloons.tests.Test017@56673b2c</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test018.test18()'><b>test18</b><br>Test class: com.pantaloons.tests.Test018<br/>
+<a href="#Output-1257526338" onClick='toggleBox("Output-1257526338", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1257526338" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1257526338">
+Proper error message is diplayed true<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>com.pantaloons.tests.Test018@58ce9668</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test019.test19()'><b>test19</b><br>Test class: com.pantaloons.tests.Test019<br/>
+<a href="#Output-1107201631" onClick='toggleBox("Output-1107201631", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1107201631" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1107201631">
+S M L XL 2XL <br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.pantaloons.tests.Test019@338c99c8</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test002.test2()'><b>test2</b><br>Test class: com.pantaloons.tests.Test002<br/>
+<a href="#Output-2142129482" onClick='toggleBox("Output-2142129482", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2142129482" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2142129482">
+Spring Collection banner is visibletrue<br/>
+KidsBanner is enabled and working fine <br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.pantaloons.tests.Test002@68702e03</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test020_EndtoEnd.test20()'><b>test20</b><br>Test class: com.pantaloons.tests.Test020_EndtoEnd<br/>
+<a href="#Output-1526866775" onClick='toggleBox("Output-1526866775", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1526866775" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1526866775">
+Proper error message displayed for not slecting size<br/>
+Total Cart amount is ₹ 3892.00<br/>
+</div>
+</td>
+<td></td>
+<td>22</td>
+<td>com.pantaloons.tests.Test020_EndtoEnd@7a220c9a</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test021_EndtoEnd.test21()'><b>test21</b><br>Test class: com.pantaloons.tests.Test021_EndtoEnd<br/>
+<a href="#Output-209748487" onClick='toggleBox("Output-209748487", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-209748487" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-209748487">
+Total cart amount is  ₹ 6785.00<br/>
+</div>
+</td>
+<td></td>
+<td>27</td>
+<td>com.pantaloons.tests.Test021_EndtoEnd@2421cc4</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test003.test3()'><b>test3</b><br>Test class: com.pantaloons.tests.Test003<br/>
+<a href="#Output-331216192" onClick='toggleBox("Output-331216192", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-331216192" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-331216192">
+first product Name is Casual Slim Fit Rinse Jeans<br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.pantaloons.tests.Test003@62010f5c</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test004.test4()'><b>test4</b><br>Test class: com.pantaloons.tests.Test004<br/>
+<a href="#Output-1115296438" onClick='toggleBox("Output-1115296438", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1115296438" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1115296438">
+Multicontainer root icons are displayed<br/>
+</div>
+</td>
+<td></td>
+<td>20</td>
+<td>com.pantaloons.tests.Test004@1fa1cab1</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test005.test5()'><b>test5</b><br>Test class: com.pantaloons.tests.Test005<br/>
+<a href="#Output-1733500474" onClick='toggleBox("Output-1733500474", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1733500474" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1733500474">
+majortab Womenis visible<br/>
+Women major tab options count is  3<br/>
+Women major tab options count is  3<br/>
+all options are enabled and count is 3<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.pantaloons.tests.Test005@2796aeae</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test006.test6()'><b>test6</b><br>Test class: com.pantaloons.tests.Test006<br/>
+<a href="#Output-1624510452" onClick='toggleBox("Output-1624510452", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1624510452" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1624510452">
+Product count is null<br/>
+</div>
+</td>
+<td></td>
+<td>7</td>
+<td>com.pantaloons.tests.Test006@172b013</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test007.test7()'><b>test7</b><br>Test class: com.pantaloons.tests.Test007<br/>
+<a href="#Output-1444635117" onClick='toggleBox("Output-1444635117", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1444635117" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1444635117">
+Selected option in dropdown is : Best Selling<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>com.pantaloons.tests.Test007@21ba0741</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test008.test8()'><b>test8</b><br>Test class: com.pantaloons.tests.Test008<br/>
+<a href="#Output-569661948" onClick='toggleBox("Output-569661948", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-569661948" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-569661948">
+ login required to add product to wishlistcom.booking.pagerepository.redirectToLoginPage@53a9fcfd<br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.pantaloons.tests.Test008@59a008ba</td></tr>
+<tr>
+<td title='com.pantaloons.tests.Test009.test9()'><b>test9</b><br>Test class: com.pantaloons.tests.Test009<br/>
+<a href="#Output-409778321" onClick='toggleBox("Output-409778321", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-409778321" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-409778321">
+ios icon is displayed false<br/>
+Android icon is displayed true<br/>
+</div>
+</td>
+<td></td>
+<td>6</td>
+<td>com.pantaloons.tests.Test009@30c93896</td></tr>
+</table><p>
+</body>
+</html>
